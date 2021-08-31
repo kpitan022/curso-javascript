@@ -1,4 +1,4 @@
-// alert("hello world");
+alert("hello world");
 
 //Number
 // console.log(3);
